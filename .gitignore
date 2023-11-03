@@ -1,0 +1,30 @@
+.env.development
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# データベース関連
+db/__pycache__/
+db/*.pyc
+
+# 開発ツールの設定ファイル
+.idea/
+.vscode/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+logs/
+*.log
+
+# テストデータや一時データ
+*.csv
+*.xlsx
+
+# eco_scoringの中身
+eco_scoring/

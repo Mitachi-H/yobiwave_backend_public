@@ -1,0 +1,77 @@
+{
+  "milk and dairy products": [
+    "cheeses",
+    "fresh dairy products and similar",
+    "milks",
+    "creams and cream-based specialties"
+  ],
+  "cooking aids and miscellaneous ingredients": [
+    "sauces",
+    "cooking aids",
+    "seaweeds",
+    "miscellaneous ingredients",
+    "herbs",
+    "spices",
+    "salts",
+    "commodities intended for specific nutrition",
+    "condiments"
+  ],
+  "meats, eggs, fish": [
+    "raw fish",
+    "cooked fish",
+    "fish-based products and seafood",
+    "raw shellfish and crustaceans",
+    "delicatessen",
+    "other meat-based products",
+    "cooked meats",
+    "raw meats",
+    "cooked shellfish and crustaceans",
+    "eggs",
+    "delicatessen substitutes",
+    "meat substitutes"
+  ],
+  "fruits, vegetables, legumes and oilseeds": [
+    "nuts and oilseeds",
+    "fruits",
+    "vegetables",
+    "legumes",
+    "potatoes and other tubers"
+  ],
+  "cereal products": [
+    "cakes and pastries",
+    "pasta, rice and cereals",
+    "breads and pastries",
+    "flours and pie dough",
+    "breakfast cereals and biscuits"
+  ],
+  "beverages": ["non-alcoholic beverages", "alcoholic beverages", "waters"],
+  "fats": [
+    "vegetable oils and fats",
+    "margarines",
+    "butters",
+    "other fats",
+    "fish oils"
+  ],
+  "infant foods": [
+    "infant desserts",
+    "salty baby jars and infant dishes",
+    "milks and infant beverages",
+    "infant cereals and biscuits"
+  ],
+  "ice creams and sorbets": ["frozen desserts", "ice creams", "sorbets"],
+  "appetizers and composed dishes": [
+    "puff pastries and other appetizers",
+    "composed dishes",
+    "soups",
+    "pizzas, savory pies and crepes",
+    "composed salads and raw vegetables",
+    "sandwiches",
+    "vegetarian dishes"
+  ],
+  "sugary products": [
+    "non-chocolate confectioneries",
+    "sugars, honeys and similar",
+    "chocolates and chocolate-based products",
+    "jams and similar"
+  ]
+}

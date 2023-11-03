@@ -1,0 +1,85 @@
+{
+    "lait et produits laitiers": [
+        "fromages",
+        "produits laitiers frais et assimil\u00e9s",
+        "laits",
+        "cr\u00e8mes et sp\u00e9cialit\u00e9s \u00e0 base de cr\u00e8me"
+    ],
+    "aides culinaires et ingr\u00e9dients divers": [
+        "sauces",
+        "aides culinaires",
+        "algues",
+        "ingr\u00e9dients divers",
+        "herbes",
+        "\u00e9pices",
+        "sels",
+        "denr\u00e9es destin\u00e9es \u00e0 une alimentation particuli\u00e8re",
+        "condiments"
+    ],
+    "viandes, \u0153ufs, poissons": [
+        "poissons crus",
+        "poissons cuits",
+        "produits \u00e0 base de poissons et produits de la mer",
+        "mollusques et crustac\u00e9s crus",
+        "charcuteries",
+        "autres produits \u00e0 base de viande",
+        "viandes cuites",
+        "viandes crues",
+        "mollusques et crustac\u00e9s cuits",
+        "\u0153ufs",
+        "substituts de charcuterie",
+        "substituts de viande"
+    ],
+    "fruits, l\u00e9gumes, l\u00e9gumineuses et ol\u00e9agineux": [
+        "fruits \u00e0 coque et graines ol\u00e9agineuses",
+        "fruits",
+        "l\u00e9gumes",
+        "l\u00e9gumineuses",
+        "pommes de terre et autres tubercules"
+    ],
+    "produits c\u00e9r\u00e9aliers": [
+        "g\u00e2teaux et p\u00e2tisseries",
+        "p\u00e2tes, riz et c\u00e9r\u00e9ales",
+        "pains et viennoiseries",
+        "farines et p\u00e2tes \u00e0 tarte",
+        "c\u00e9r\u00e9ales de petit-d\u00e9jeuner et biscuits"
+    ],
+    "boissons": [
+        "boissons sans alcool",
+        "boisson alcoolis\u00e9es",
+        "eaux"
+    ],
+    "mati\u00e8res grasses": [
+        "huiles et graisses v\u00e9g\u00e9tales",
+        "margarines",
+        "beurres",
+        "autres mati\u00e8res grasses",
+        "huiles de poissons"
+    ],
+    "aliments infantiles": [
+        "desserts infantiles",
+        "petits pots sal\u00e9s et plats infantiles",
+        "laits et boissons infantiles",
+        "c\u00e9r\u00e9ales et biscuits infantiles"
+    ],
+    "glaces et sorbets": [
+        "desserts glac\u00e9s",
+        "glaces",
+        "sorbets"
+    ],
+    "entr\u00e9es et plats compos\u00e9s": [
+        "feuillet\u00e9es et autres entr\u00e9es",
+        "plats compos\u00e9s",
+        "soupes",
+        "pizzas, tartes et cr\u00eapes sal\u00e9es",
+        "salades compos\u00e9es et crudit\u00e9s",
+        "sandwichs",
+        "plats v\u00e9g\u00e9tariens"
+    ],
+    "produits sucr\u00e9s": [
+        "confiseries non chocolat\u00e9es",
+        "sucres, miels et assimil\u00e9s",
+        "chocolats et produits \u00e0 base de chocolat",
+        "confitures et assimil\u00e9s"
+    ]
+}
